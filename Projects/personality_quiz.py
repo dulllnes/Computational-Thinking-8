@@ -3,7 +3,7 @@
 triangle_points = 0
 square_points = 0
 
-print("welcome to my personality quiz! please answer the questions below.")
+print("welcome to my personality quiz! please answer the questions below. (and use uppercase letters)")
 
 # middle
 
